@@ -5,7 +5,7 @@
 
 I am a **Systems Analyst** and **Software Engineer** with extensive experience in Software Engineering and Software Architecture.
 <br><br>
-I am an enthusiast of research and development of Artificial Intelligence solutions (Machine Learning, Deep Learning and Computer Vision) to assist in solving problems and challenges in the areas of health, logistics and security.
+I am an enthusiast of research and development of Artificial Intelligence solutions (Machine Learning, Deep Learning and Computer Vision) to assist in solving problems and challenges in the areas of Health, Agribusiness, Smart Home and Industry 4.0.
 <br><br>
 
 <div align="center">
