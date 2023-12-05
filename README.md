@@ -7,9 +7,9 @@ I am a **Software Engineer** with extensive experience in Software Engineering a
 <br><br>
 I have been working in the Information Technology (IT) field for more than 20 years. During this journey, I gained extensive experience in large-scale and mission-critical systems projects.
 <br><br>
-I am an enthusiast of research and development of Artificial Intelligence solutions (Machine Learning, Deep Learning and Computer Vision) to assist in solving problems and challenges in the areas of Health, Agribusiness, Smart Home and Smart Cities. 
+I am an enthusiast of research and development of Artificial Intelligence solutions (Machine Learning, Deep Learning and Computer Vision) to assist in solving problems and challenges in the areas of Health, Electrical Energy, Smart Home and Smart Cities. 
 <br><br>
-This repository provides some personal projects in order to demonstrate the results that I have obtained in my research and projects.
+This repository provides some personal projects in order to demonstrate what I have learned in my research and projects.
 <br><br>
 
 <div align="center">
