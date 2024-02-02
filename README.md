@@ -9,7 +9,7 @@ I have been working in the Information Technology (IT) field for more than 20 ye
 <br><br>
 I am an enthusiast of research and development of Artificial Intelligence solutions (Machine Learning, Deep Learning and Computer Vision) to assist in solving problems and challenges in the areas of Health, Electrical Energy, Smart Home and Smart Cities. 
 <br><br>
-This repository provides some personal projects in order to demonstrate what I have learned in my research and projects.
+This repository provides some personal projects in order to share what I have learned in my studies.
 <br><br>
 
 <div align="center">
